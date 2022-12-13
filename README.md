@@ -2,10 +2,10 @@
 
 <h2 align="center">Como Baixar o Codigo</h2>
 
-<p align="center">Vá até o arquivo do codigo,
-então clique no arquivo do codigo e você verá o conteúdo,
-clique na opção Raw (está na barra de opções acima do conteúdo).
-Depois pressione o botão direito e clique em Salvar como:
+<p align="center">Vá até a área do codigo,
+então clique no codigo e você verá o conteúdo,
+clique na opção Raw (está na barra de opções acima do conteúdo).<br>
+Depois pressione o botão direito e clique em Salvar como:<br>
 Defina o nome e extensão do arquivo, e pronto!</p>
 
 <h2 align="center">Para compilar no terminal</h2>
