@@ -2,18 +2,18 @@
 
 <h2 align="center">Como Baixar o Codigo</h2>
 
-<p align="center">Vá até o arquivo do codigo;
-Clique no arquivo do codigo e você verá o conteúdo;
-Clique na opção Raw (está na barra de opções acima do conteúdo);
-Depois pressione o botão direito e clique em Salvar como;
-Defina o nome e extensão do arquivo, e pronto!;</p>
+<p align="center">Vá até o arquivo do codigo,
+então clique no arquivo do codigo e você verá o conteúdo,
+clique na opção Raw (está na barra de opções acima do conteúdo).
+Depois pressione o botão direito e clique em Salvar como:
+Defina o nome e extensão do arquivo, e pronto!</p>
 
 <h2 align="center">Para compilar no terminal</h2>
 
-<p align="center">Vá utilizando o comando "cd" com auxilio do comando "ls" até a área onde o codigo foi salvo;
-Após isso so dar o comando;
-"gcc -o (nome do executavel) (Nome do codigo).c"
-após dar esse comando no terminal, para executa-lo é o comando;
+<p align="center">Vá utilizando o comando "cd" com auxilio do comando "ls" até a área onde o codigo foi salvo,
+Após isso so dar o comando:<br>
+"gcc -o (nome do executavel) (Nome do codigo).c"<br>
+após dar esse comando no terminal, para executa-lo é o comando:<br>
 "./(nome do executavel)"</p>
 
 <h2 align="center">Sobre o Codigo</h2>
