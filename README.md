@@ -14,6 +14,7 @@ Defina o nome e extensão do arquivo, e pronto!</p>
 
 <p align="center">Vá utilizando o comando "cd" com auxilio do comando "ls" até a área onde o codigo foi salvo,
 Após isso so dar o comando:
+  
 ```
 gcc -o (nome do executavel) (Nome do codigo).c
 ```
